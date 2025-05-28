@@ -21,35 +21,7 @@ Welcome to **Tap Foods**, your one-stop solution for food delivery! This applica
 - **Database**: MySQL
 - **Version Control**: Git, GitHub
 
-### Installation and Setup
 
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/tap-foods.git
-   cd tap-foods
-   ```
-
-2. **Database Setup**:
-   - Import the provided SQL script to set up your database.
-   - Update the database configuration in your project as necessary.
-
-3. **Run the Application**:
-   - Deploy the application on a server (like Apache Tomcat).
-   - Access the application through your browser at `http://localhost:8080/tap-foods`.
-
-### Contributing
-
-We welcome contributions from the community! If you'd like to contribute, please fork the repository and create a pull request with your changes. Ensure your code follows the existing style and conventions.
-
-### Contact
-
-For any inquiries or support, please contact us at support@tapfoods.com.
-
----
-
-Feel free to customize this README content to better fit your project and personal style.
-
----
 
 Sample Photos :
 
